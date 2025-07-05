@@ -1,0 +1,23 @@
+{
+  "name": "webcrawlerhttp",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vedant2s/WebCrawlerHttp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vedant2s/WebCrawlerHttp/issues"
+  },
+  "homepage": "https://github.com/Vedant2s/WebCrawlerHttp#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.0.4"
+  }
+}
