@@ -1,4 +1,4 @@
-const {normalizeUrl,getURLsFromHTML}=require('./crawl.js')
+const {normalizeUrl,getURLsFromHTML}=require('../Logic/crawl')
 const {test, expect}=require('@jest/globals')
 
 test('normalizeUrl strip protocol',()=>{
